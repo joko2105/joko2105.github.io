@@ -1,0 +1,19 @@
+* {
+	background-color: #101010;
+}
+
+.container {
+	display: inline-block; 
+    margin: 20px;
+}
+
+
+img{
+position: absolute;
+	margin: auto;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	max-height: 30%;
+}
